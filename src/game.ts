@@ -23,9 +23,6 @@ const transform2 = new Transform({
 })
 entity.addComponentOrReplace(transform2)
 
-
-
-
 /// --- Set up a system ---
 // class RotatorSystem {
 //   // this group will contain every entity that has a Transform component
