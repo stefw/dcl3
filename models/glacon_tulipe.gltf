@@ -1,0 +1,564 @@
+{
+    "asset": {
+        "copyright": "2020 (c) Adobe Inc.",
+        "generator": "Adobe Dimension - 3de52ae4ccc0c25be48106335282fae5a6a58dee",
+        "version": "2.0",
+        "extensions": {
+            "KHR_xmp": {
+                "packet": 0
+            }
+        }
+    },
+    "accessors": [
+        {
+            "bufferView": 0,
+            "componentType": 5126,
+            "count": 36,
+            "type": "VEC3",
+            "max": [
+                0.09999999403953552,
+                0.19999998807907105,
+                0.09999999403953552
+            ],
+            "min": [
+                -0.10000000894069672,
+                0.0,
+                -0.09999999403953552
+            ]
+        },
+        {
+            "bufferView": 1,
+            "componentType": 5126,
+            "count": 36,
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 2,
+            "componentType": 5126,
+            "count": 36,
+            "type": "VEC2"
+        },
+        {
+            "bufferView": 3,
+            "componentType": 5125,
+            "count": 36,
+            "type": "SCALAR",
+            "max": [
+                35.0
+            ],
+            "min": [
+                0.0
+            ]
+        },
+        {
+            "bufferView": 4,
+            "componentType": 5126,
+            "count": 14112,
+            "type": "VEC3",
+            "max": [
+                0.019999999552965165,
+                0.3499999940395355,
+                0.019999999552965165
+            ],
+            "min": [
+                -0.019999999552965165,
+                0.0,
+                -0.019999999552965165
+            ]
+        },
+        {
+            "bufferView": 5,
+            "componentType": 5126,
+            "count": 14112,
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 6,
+            "componentType": 5126,
+            "count": 14112,
+            "type": "VEC2"
+        },
+        {
+            "bufferView": 7,
+            "componentType": 5125,
+            "count": 14112,
+            "type": "SCALAR",
+            "max": [
+                14111.0
+            ],
+            "min": [
+                0.0
+            ]
+        },
+        {
+            "bufferView": 8,
+            "componentType": 5126,
+            "count": 84,
+            "type": "VEC3",
+            "max": [
+                0.1935959756374359,
+                0.15315599739551545,
+                0.04233600199222565
+            ],
+            "min": [
+                -0.1935959756374359,
+                -0.15315599739551545,
+                -0.04233600199222565
+            ]
+        },
+        {
+            "bufferView": 9,
+            "componentType": 5126,
+            "count": 84,
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 10,
+            "componentType": 5126,
+            "count": 84,
+            "type": "VEC2"
+        },
+        {
+            "bufferView": 11,
+            "componentType": 5125,
+            "count": 204,
+            "type": "SCALAR",
+            "max": [
+                83.0
+            ],
+            "min": [
+                0.0
+            ]
+        },
+        {
+            "bufferView": 12,
+            "componentType": 5126,
+            "count": 18392,
+            "type": "VEC3",
+            "max": [
+                0.5319690108299255,
+                0.5016819834709168,
+                0.4918709397315979
+            ],
+            "min": [
+                -0.5319690108299255,
+                -0.5016819834709168,
+                -0.4918709397315979
+            ]
+        },
+        {
+            "bufferView": 13,
+            "componentType": 5126,
+            "count": 18392,
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 14,
+            "componentType": 5126,
+            "count": 18392,
+            "type": "VEC2"
+        },
+        {
+            "bufferView": 15,
+            "componentType": 5125,
+            "count": 99876,
+            "type": "SCALAR",
+            "max": [
+                18391.0
+            ],
+            "min": [
+                0.0
+            ]
+        }
+    ],
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteOffset": 0,
+            "byteLength": 432,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 432,
+            "byteLength": 432,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 864,
+            "byteLength": 288,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 1152,
+            "byteLength": 144,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 1296,
+            "byteLength": 169344,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 170640,
+            "byteLength": 169344,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 339984,
+            "byteLength": 112896,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 452880,
+            "byteLength": 56448,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 509328,
+            "byteLength": 1008,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 510336,
+            "byteLength": 1008,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 511344,
+            "byteLength": 672,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 512016,
+            "byteLength": 816,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 512832,
+            "byteLength": 220704,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 733536,
+            "byteLength": 220704,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 954240,
+            "byteLength": 147136,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 1101376,
+            "byteLength": 399504,
+            "target": 34963
+        }
+    ],
+    "buffers": [
+        {
+            "byteLength": 1500880,
+            "uri": "glacon_tulipe_binary.bin"
+        }
+    ],
+    "cameras": [
+        {
+            "perspective": {
+                "znear": 0.000010000000656873454,
+                "yfov": 0.6024156808853149,
+                "zfar": 2.0,
+                "aspectRatio": 1.3333333730697632
+            },
+            "type": "perspective",
+            "name": "render_camera"
+        }
+    ],
+    "images": [
+        {
+            "name": "image",
+            "uri": "glacon_tulipe_images/image.png",
+            "mimeType": "image/png"
+        },
+        {
+            "name": "ice_normal",
+            "uri": "glacon_tulipe_images/ice_normal.png",
+            "mimeType": "image/png"
+        }
+    ],
+    "materials": [
+        {
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    0.25
+                ],
+                "metallicFactor": 0.0,
+                "metallicRoughnessTexture": {
+                    "index": 0
+                }
+            },
+            "normalTexture": {
+                "index": 1
+            },
+            "alphaMode": "BLEND",
+            "name": "Glace",
+            "doubleSided": true
+        },
+        {
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.026241334155201913,
+                    0.46207714080810549,
+                    0.17144079506397248,
+                    1.0
+                ],
+                "roughnessFactor": 0.02199999988079071
+            },
+            "name": "Métal",
+            "doubleSided": true
+        },
+        {
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "metallicFactor": 0.0,
+                "roughnessFactor": 0.028999999165534974
+            },
+            "name": "Plastique 2",
+            "doubleSided": true
+        }
+    ],
+    "meshes": [
+        {
+            "name": "PROCEDURAL_MESHES_CUBE#",
+            "primitives": [
+                {
+                    "attributes": {
+                        "POSITION": 0,
+                        "NORMAL": 1,
+                        "TEXCOORD_0": 2
+                    },
+                    "indices": 3,
+                    "material": 0
+                }
+            ]
+        },
+        {
+            "name": "Cylindre",
+            "primitives": [
+                {
+                    "attributes": {
+                        "TEXCOORD_0": 6,
+                        "NORMAL": 5,
+                        "POSITION": 4
+                    },
+                    "indices": 7,
+                    "material": 1
+                }
+            ]
+        },
+        {
+            "name": "model 9",
+            "primitives": [
+                {
+                    "attributes": {
+                        "POSITION": 8,
+                        "NORMAL": 9,
+                        "TEXCOORD_0": 10
+                    },
+                    "indices": 11,
+                    "material": 1
+                }
+            ]
+        },
+        {
+            "name": "model 10",
+            "primitives": [
+                {
+                    "attributes": {
+                        "POSITION": 12,
+                        "NORMAL": 13,
+                        "TEXCOORD_0": 14
+                    },
+                    "indices": 15,
+                    "material": 2
+                }
+            ]
+        }
+    ],
+    "nodes": [
+        {
+            "translation": [
+                0.4630596935749054,
+                0.224786177277565,
+                0.5600714683532715
+            ],
+            "rotation": [
+                -0.07368557155132294,
+                0.34242549538612368,
+                0.026949521154165269,
+                0.9362632632255554
+            ],
+            "camera": 0,
+            "name": "render_camera_n3d"
+        },
+        {
+            "translation": [
+                -0.048098448663949969,
+                0.0,
+                -0.07883262634277344
+            ],
+            "mesh": 0,
+            "name": "Cube"
+        },
+        {
+            "children": [
+                3,
+                4,
+                5
+            ],
+            "translation": [
+                0.022875957190990449,
+                0.03531010448932648,
+                -0.3461292088031769
+            ],
+            "rotation": [
+                0.4353383779525757,
+                -0.5572077631950378,
+                -0.1349223554134369,
+                0.6941152215003967
+            ],
+            "scale": [
+                1.0000001192092896,
+                0.9999999403953552,
+                0.9999999403953552
+            ],
+            "name": "tulipe"
+        },
+        {
+            "translation": [
+                0.12508533895015717,
+                0.1713278591632843,
+                0.045838430523872378
+            ],
+            "rotation": [
+                -9.483760443629308e-10,
+                0.9953961968421936,
+                9.849260962369044e-9,
+                0.0958457663655281
+            ],
+            "scale": [
+                0.3695719540119171,
+                0.3695719242095947,
+                0.3695719540119171
+            ],
+            "mesh": 1,
+            "name": "Cylindre"
+        },
+        {
+            "translation": [
+                0.1262475699186325,
+                0.1914265751838684,
+                0.02450866624712944
+            ],
+            "rotation": [
+                5.8346283360322108e-9,
+                -0.7986355423927307,
+                -7.5792065956648e-9,
+                0.6018149852752686
+            ],
+            "scale": [
+                0.10099992901086807,
+                0.10100000351667404,
+                0.10099992901086807
+            ],
+            "mesh": 2,
+            "name": "model 9"
+        },
+        {
+            "translation": [
+                0.1273972988128662,
+                0.31575578451156618,
+                0.04553697630763054
+            ],
+            "rotation": [
+                4.274805842641172e-9,
+                0.37460634112358096,
+                -1.7271323260459326e-9,
+                0.9271839261054993
+            ],
+            "scale": [
+                0.10099992156028748,
+                0.10099998861551285,
+                0.10099997371435166
+            ],
+            "mesh": 3,
+            "name": "model 10"
+        }
+    ],
+    "samplers": [
+        {},
+        {}
+    ],
+    "scenes": [
+        {
+            "nodes": [
+                0,
+                1,
+                2
+            ],
+            "name": "scene"
+        }
+    ],
+    "textures": [
+        {
+            "name": "image",
+            "sampler": 0,
+            "source": 0
+        },
+        {
+            "name": "ice_material::normal::image",
+            "sampler": 1,
+            "source": 1
+        }
+    ],
+    "scene": 0,
+    "extensions": {
+        "KHR_xmp": {
+            "@context": {
+                "dc": "http://purl.org/dc/elements/1.1/"
+            },
+            "packets": [
+                {
+                    "dc:date": "2022-05-19T13:32:04.633+02:00",
+                    "dc:format": "model/gltf+json",
+                    "dc:title": "glacon_tulipe.dn",
+                    "xmp:CreatorTool": "Adobe Dimension"
+                }
+            ]
+        }
+    },
+    "extensionsUsed": [
+        "KHR_xmp"
+    ]
+}

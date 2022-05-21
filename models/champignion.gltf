@@ -1,0 +1,324 @@
+{
+    "asset": {
+        "copyright": "2020 (c) Adobe Inc.",
+        "generator": "Adobe Dimension - 3de52ae4ccc0c25be48106335282fae5a6a58dee",
+        "version": "2.0",
+        "extensions": {
+            "KHR_xmp": {
+                "packet": 0
+            }
+        }
+    },
+    "accessors": [
+        {
+            "bufferView": 0,
+            "componentType": 5126,
+            "count": 24830,
+            "type": "VEC3",
+            "max": [
+                0.34126201272010805,
+                0.4337030053138733,
+                0.34136900305747988
+            ],
+            "min": [
+                -0.34126201272010805,
+                -0.4337030053138733,
+                -0.34136900305747988
+            ]
+        },
+        {
+            "bufferView": 1,
+            "componentType": 5126,
+            "count": 24830,
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 2,
+            "componentType": 5126,
+            "count": 24830,
+            "type": "VEC2"
+        },
+        {
+            "bufferView": 3,
+            "componentType": 5125,
+            "count": 146664,
+            "type": "SCALAR",
+            "max": [
+                24829.0
+            ],
+            "min": [
+                0.0
+            ]
+        },
+        {
+            "bufferView": 4,
+            "componentType": 5126,
+            "count": 78811,
+            "type": "VEC3",
+            "max": [
+                1.0513499975204468,
+                0.53404301404953,
+                1.0513499975204468
+            ],
+            "min": [
+                -1.0513499975204468,
+                -0.53404301404953,
+                -1.0513499975204468
+            ]
+        },
+        {
+            "bufferView": 5,
+            "componentType": 5126,
+            "count": 78811,
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 6,
+            "componentType": 5126,
+            "count": 78811,
+            "type": "VEC2"
+        },
+        {
+            "bufferView": 7,
+            "componentType": 5125,
+            "count": 467232,
+            "type": "SCALAR",
+            "max": [
+                78810.0
+            ],
+            "min": [
+                0.0
+            ]
+        }
+    ],
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteOffset": 0,
+            "byteLength": 297960,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 297960,
+            "byteLength": 297960,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 595920,
+            "byteLength": 198640,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 794560,
+            "byteLength": 586656,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 1381216,
+            "byteLength": 945732,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 2326948,
+            "byteLength": 945732,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 3272680,
+            "byteLength": 630488,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 3903168,
+            "byteLength": 1868928,
+            "target": 34963
+        }
+    ],
+    "buffers": [
+        {
+            "byteLength": 5772096,
+            "uri": "champignion_binary.bin"
+        }
+    ],
+    "cameras": [
+        {
+            "perspective": {
+                "znear": 0.00006683051469735801,
+                "yfov": 0.6024156808853149,
+                "zfar": 3.675678253173828,
+                "aspectRatio": 1.3333333730697632
+            },
+            "type": "perspective",
+            "name": "render_camera"
+        }
+    ],
+    "images": [
+        {
+            "name": "composited_baseColor_opacity",
+            "uri": "champignion_images/composited_baseColor_opacity.png",
+            "mimeType": "image/png"
+        },
+        {
+            "name": "composited_roughness",
+            "uri": "champignion_images/composited_roughness.png",
+            "mimeType": "image/png"
+        }
+    ],
+    "materials": [
+        {
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.5840784907341003,
+                    0.49102088809013369,
+                    0.37626221776008608,
+                    1.0
+                ],
+                "metallicFactor": 0.0
+            },
+            "name": "Mat",
+            "doubleSided": true
+        },
+        {
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "index": 0
+                },
+                "metallicFactor": 0.0,
+                "metallicRoughnessTexture": {
+                    "index": 1
+                }
+            },
+            "alphaMode": "MASK",
+            "name": "Mat 2",
+            "doubleSided": true
+        }
+    ],
+    "meshes": [
+        {
+            "name": "model",
+            "primitives": [
+                {
+                    "attributes": {
+                        "TEXCOORD_0": 2,
+                        "NORMAL": 1,
+                        "POSITION": 0
+                    },
+                    "indices": 3,
+                    "material": 0
+                }
+            ]
+        },
+        {
+            "name": "model 2",
+            "primitives": [
+                {
+                    "attributes": {
+                        "POSITION": 4,
+                        "NORMAL": 5,
+                        "TEXCOORD_0": 6
+                    },
+                    "indices": 7,
+                    "material": 1
+                }
+            ]
+        }
+    ],
+    "nodes": [
+        {
+            "translation": [
+                -1.320871353149414,
+                1.5620315074920655,
+                4.223223686218262
+            ],
+            "rotation": [
+                -0.09091392904520035,
+                -0.1470959186553955,
+                -0.013578920625150204,
+                0.9848416447639465
+            ],
+            "camera": 0,
+            "name": "render_camera_n3d"
+        },
+        {
+            "translation": [
+                -0.05397292971611023,
+                0.4337030053138733,
+                -0.0009178543114103377
+            ],
+            "mesh": 0,
+            "name": "model"
+        },
+        {
+            "translation": [
+                0.009594587609171868,
+                1.0209776163101197,
+                -0.0605611726641655
+            ],
+            "rotation": [
+                -0.07560558617115021,
+                0.2664145529270172,
+                -0.020967284217476846,
+                0.960659921169281
+            ],
+            "scale": [
+                1.0,
+                1.0000001192092896,
+                1.0000001192092896
+            ],
+            "mesh": 1,
+            "name": "model 2"
+        }
+    ],
+    "samplers": [
+        {},
+        {}
+    ],
+    "scenes": [
+        {
+            "nodes": [
+                0,
+                1,
+                2
+            ],
+            "name": "scene"
+        }
+    ],
+    "textures": [
+        {
+            "name": "composited_baseColor_opacity",
+            "sampler": 0,
+            "source": 0
+        },
+        {
+            "name": "composited_roughness",
+            "sampler": 1,
+            "source": 1
+        }
+    ],
+    "scene": 0,
+    "extensions": {
+        "KHR_xmp": {
+            "@context": {
+                "dc": "http://purl.org/dc/elements/1.1/"
+            },
+            "packets": [
+                {
+                    "dc:date": "2022-05-19T13:47:24.298+02:00",
+                    "dc:format": "model/gltf+json",
+                    "dc:title": "champignion.dn",
+                    "xmp:CreatorTool": "Adobe Dimension"
+                }
+            ]
+        }
+    },
+    "extensionsUsed": [
+        "KHR_xmp"
+    ]
+}
